@@ -1,0 +1,6 @@
+*.pyc
+*.py~
+conf.py
+locale
+*.egg-info
+*.swp
