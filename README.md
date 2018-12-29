@@ -4,5 +4,5 @@
 
 ### Use Case:
 
-data-sci datasci test
+data-sci datasci compare-files <filepath1-with-file-name, filepath2-with-filename> 
 
