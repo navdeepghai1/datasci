@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include blox *.css
+recursive-include blox *.csv
+recursive-include blox *.html
+recursive-include blox *.ico
+recursive-include blox *.js
+recursive-include blox *.json
+recursive-include blox *.md
+recursive-include blox *.png
+recursive-include blox *.py
+recursive-include blox *.svg
+recursive-include blox *.txt
+recursive-exclude blox *.pyc
